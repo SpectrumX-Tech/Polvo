@@ -52,4 +52,9 @@
   section {
     max-width: 1000px !important;
   }
+
+  main > section:nth-child(1) {
+    padding-top: 60px;
+    width: 100%;
+  }
 }

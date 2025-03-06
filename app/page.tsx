@@ -13,7 +13,8 @@ export default function Home() {
           <Hero />
         </section>
 
-        <section aria-labelledby="about-heading">
+        {/*
+         <section aria-labelledby="about-heading">
           <h2 id="about-heading" className="sr-only">About Us</h2>
           <About />
         </section>
@@ -31,6 +32,7 @@ export default function Home() {
           <h2 id="faq-heading" className="sr-only">Frequently Asked Questions</h2>
           <FAQ />
         </section>
+        */}
       </main>
     </>
   );
